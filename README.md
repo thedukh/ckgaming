@@ -12,10 +12,10 @@ MONDAY Naxx - 9pm-12am EST
 Loot
 CK understands how important loot is. We use Loot Council made up of Founders, Officers and Raiders. In game, we utilize RCLoot and are transparent with loot decisions. 
 
-Guild Leadership:
-GM's:  Vavado & Starscream & Dukh
-Raid leader: Amunophobon
-Human Resources: Darkwold
-Office of Shenanigans: Nightmoves
-Cuddly MT:  Orokk
-Federal Reserve:  Eosa
+<br>Guild Leadership:</br>
+<p>GM's:  Vavado & Starscream & Dukh
+<br>Raid leader: Amunophobon
+<br>Human Resources: Darkwolf
+<br>Office of Shenanigans: Nightmoves
+<br>Cuddly MT:  Orokk
+<br>Federal Reserve:  Eosa
