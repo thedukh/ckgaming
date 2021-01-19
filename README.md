@@ -19,3 +19,13 @@ CK understands how important loot is. We use Loot Council made up of Founders, O
 <br>Office of Shenanigans: Nightmoves
 <br>Cuddly MT:  Orokk
 <br>Federal Reserve:  Eosa
+<br>
+<br>
+<br>
+<br>
+<br>
+ <b>Attention</b>
+<br>Cereal Killers does the Dowery process, where we will rent out our players for the night to certain guilds. 
+ <br>Prices is as follows:
+<br>Ret Pally:  775g per night
+ <br>Warlock : 773g per night
